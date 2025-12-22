@@ -9,4 +9,4 @@ My solutions for the [Advent of Code](https://adventofcode.com/)
 > [!NOTE]
 > Disclaimer: No AI, LLMs or other similar tools have been used during the development of these solutions.
 > Research using normal search engines, documentation and open encyclopedias may have been done.
-> Many of the can be optimized to achieve a faster running time or less memory usage.
+> Many of the solutions can be optimized to achieve a faster running time and/or less memory usage.
