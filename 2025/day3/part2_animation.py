@@ -1,3 +1,5 @@
+"""This is an animated version of the solution for day 3, part 2"""
+
 import os
 from time import sleep
 from rich.text import Text
